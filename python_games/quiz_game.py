@@ -1,6 +1,7 @@
 print("Welcome to my computer Quiz")
 playing = input("Do you want to play my game? ")
 
+
 if playing != "yes":
     print("Sorry to see you go!")
     quit()
